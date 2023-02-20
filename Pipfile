@@ -12,6 +12,7 @@ dj-database-url = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
 requests = "*"
+gunicorn = "*"
 
 [dev-packages]
 autopep8 = "*"
